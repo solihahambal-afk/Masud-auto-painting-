@@ -1,6 +1,6 @@
 {
-  "name": "Masud Auto Paint Zone",
-  "description": "Bilingual concept website for Masud Auto Paint Zone in Sanaya, Qatar.",
+  "name": "Doha Auto Paint Zone",
+  "description": "Doha Auto Paint Zone — auto painting, body repair and refinishing in Doha, Qatar.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

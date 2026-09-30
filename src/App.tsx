@@ -147,8 +147,8 @@ export default function App() {
       {/* Header */}
       <header>
         <a className="brand" href="#home">
-          <span className="brandMark">M</span>
-          <span>
+          <img src="/images/logo.png" alt="Masud Auto Paint Zone" className="brandLogo" />
+          <span className="brandInfo">
             <b>MASUD</b>
             <small>AUTO PAINT ZONE</small>
           </span>
@@ -457,8 +457,8 @@ export default function App() {
       {/* Footer */}
       <footer>
         <div className="brand">
-          <span className="brandMark">M</span>
-          <span>
+          <img src="/images/logo.png" alt="Masud Auto Paint Zone" className="brandLogo" />
+          <span className="brandInfo">
             <b>MASUD</b>
             <small>AUTO PAINT ZONE</small>
           </span>

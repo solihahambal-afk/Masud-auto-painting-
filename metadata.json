@@ -1,0 +1,6 @@
+{
+  "name": "Masud Auto Paint Zone",
+  "description": "Bilingual concept website for Masud Auto Paint Zone in Sanaya, Qatar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
